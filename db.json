@@ -1,0 +1,3084 @@
+{
+  "user-new": {
+    "name": "Average Joe2",
+    "job": "killer2"
+  },
+  "axis-page": {
+    "id": "1366",
+    "isStatic": false,
+    "isSystemPage": false,
+    "metadata": {
+      "description": "",
+      "keywords": []
+    },
+    "key": "",
+    "path": "/cenek_test",
+    "template": "Home",
+    "themes": [],
+    "title": "cenek_test",
+    "entries": [
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "below",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "ac8a82c",
+        "template": "SINCAT1",
+        "title": "Article test",
+        "list": {
+          "id": "1367",
+          "title": "cenek_list",
+          "description": "",
+          "shortDescription": "",
+          "path": "/list/1367",
+          "tagline": "",
+          "itemTypes": [
+            "story"
+          ],
+          "items": [
+            {
+              "images": {},
+              "offers": [],
+              "scopes": [
+                "ff562052-4f36-4a7c-8b60-9b96c30b28fd"
+              ],
+              "categories": [],
+              "customFields": {
+                "DatePublished": "2020-12-08T07:08:00.0000000Z"
+              },
+              "customId": "test-story-2-lionel-messi",
+              "genres": [],
+              "id": "ff562052-4f36-4a7c-8b60-9b96c30b28fd",
+              "type": "story",
+              "shortDescription": "Baseball's first openly all-professional team was the Cincinnati Red Stockings, who were founded in 1869. Before that, some teams had secretly paid some players. The first few decades of professional baseball were characterized by rivalries between leagues and by players who often jumped from one team or league to another.",
+              "title": "Test story 2",
+              "totalUserRatings": 0,
+              "path": "/story/test-story-2-lionel-messi",
+              "watchPath": "",
+              "themes": []
+            }
+          ],
+          "size": 1,
+          "paging": {
+            "size": 1,
+            "total": 1,
+            "page": 1
+          },
+          "customFields": {
+            "ArticleList": true,
+            "Filter": "tags.slug=lionel-messi",
+            "OrderBy": "tags.slug:desc"
+          },
+          "themes": [],
+          "images": {},
+          "parameter": ""
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "e4fcb18",
+        "template": "SINCTLE1",
+        "title": "Live",
+        "list": {
+          "id": "6331",
+          "title": "cenek_list2",
+          "description": "",
+          "shortDescription": "",
+          "path": "/list/6331",
+          "tagline": "",
+          "itemTypes": [
+            "program"
+          ],
+          "items": [
+            {
+              "videoId": "70288039-a42b-4e8a-8fee-db3ca732b68e",
+              "eventDate": "2020-11-03T20:00:00Z",
+              "images": {
+                "tile": "https://test-static.sinc-static.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='129699.jpg'&EntityType='Item'&EntityId='3932'&Width=1920&Height=1080",
+                "wallpaper": "https://test-static.sinc-static.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='129701.jpg'&EntityType='Item'&EntityId='3932'&Width=1920&Height=1080"
+              },
+              "offers": [
+                {
+                  "availability": "Available",
+                  "customFields": {},
+                  "deliveryType": "Stream",
+                  "endDate": "2100-12-31T00:00:00Z",
+                  "name": "D787_Program Free External D786",
+                  "ownership": "Free",
+                  "price": 0,
+                  "resolution": "External",
+                  "scopes": [
+                    "3932"
+                  ],
+                  "startDate": "1999-12-31T00:00:00Z",
+                  "segments": [],
+                  "subscriptionCode": ""
+                }
+              ],
+              "scopes": [
+                "3932"
+              ],
+              "categories": [
+                "sys-legacy",
+                "league-nhl",
+                "player-nhl-609654",
+                "region:ohio",
+                "videostatus:live"
+              ],
+              "customFields": {
+                "VideoId": "70288039-a42b-4e8a-8fee-db3ca732b68e",
+                "VideoStatus": "Live",
+                "ForgeId": "5fa09560-f145-4d9c-a07e-a2fe1bb3f61c",
+                "AclCode": "ohio",
+                "MvpdProtected": true,
+                "MaterialId": 845840,
+                "Provider": "LiveEvent",
+                "HasData": false,
+                "InputId": 2027,
+                "FdssEventId": 1512806,
+                "TmsId": "EP017298970282",
+                "DistAreaCallsigns": "FSA1",
+                "RsnId": "fsa",
+                "ImageTemplateUrl": "https://fe-en-sinclair-test.akamaized.net/images/image/private/{formatInstructions}/test/yzwugmq6mojgcpsqppuu"
+              },
+              "customId": "condensed-home-x6568",
+              "genres": [],
+              "id": "3932",
+              "type": "program",
+              "subtype": "live",
+              "shortDescription": "Live Event 3 Live..",
+              "contextualTitle": "Live Event 3 Live.",
+              "title": "OU Review",
+              "totalUserRatings": 0,
+              "path": "/program/OU-Review-3932",
+              "duration": 0,
+              "watchPath": "/watch/OU-Review-3932",
+              "themes": [],
+              "tagline": "",
+              "hasClosedCaptions": false,
+              "badge": ""
+            },
+            {
+              "videoId": "b06c6b95-eabd-4fd4-9a08-3a8c8241b1d9",
+              "eventDate": "2020-11-06T18:00:00Z",
+              "images": {
+                "tile": "https://test-static.sinc-static.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='129708.jpg'&EntityType='Item'&EntityId='3934'&Width=1920&Height=1080",
+                "wallpaper": "https://test-static.sinc-static.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='129711.jpg'&EntityType='Item'&EntityId='3934'&Width=1920&Height=1080"
+              },
+              "offers": [
+                {
+                  "availability": "Available",
+                  "customFields": {},
+                  "deliveryType": "Stream",
+                  "endDate": "2100-12-31T00:00:00Z",
+                  "name": "D787_Program Free External D786",
+                  "ownership": "Free",
+                  "price": 0,
+                  "resolution": "External",
+                  "scopes": [
+                    "3934"
+                  ],
+                  "startDate": "1999-12-31T00:00:00Z",
+                  "segments": [],
+                  "subscriptionCode": ""
+                }
+              ],
+              "scopes": [
+                "3934"
+              ],
+              "categories": [
+                "sys-legacy",
+                "team-nba-3410",
+                "region:arizona",
+                "videostatus:live"
+              ],
+              "customFields": {
+                "VideoId": "b06c6b95-eabd-4fd4-9a08-3a8c8241b1d9",
+                "VideoStatus": "Live",
+                "ForgeId": "8f3a557e-5af2-43ab-8554-bd403d3598d9",
+                "AclCode": "arizona",
+                "MvpdProtected": true,
+                "MaterialId": 845663,
+                "Provider": "LiveEvent",
+                "HasData": false,
+                "InputId": 2027,
+                "FdssEventId": 1504319,
+                "TmsId": "SH032141810000",
+                "DistAreaCallsigns": "FSA1",
+                "RsnId": "fsa",
+                "ImageTemplateUrl": "https://fe-en-sinclair-test.akamaized.net/images/image/private/{formatInstructions}/test/enkme49driwqr4pb9rvp"
+              },
+              "customId": "condensed-home",
+              "genres": [],
+              "id": "3934",
+              "type": "program",
+              "subtype": "live",
+              "shortDescription": "Live Event 2 Scheduled..",
+              "contextualTitle": "Live Event 2 Scheduled.",
+              "title": "America's Day at the Races",
+              "totalUserRatings": 0,
+              "path": "/program/Americas-Day-at-the-Races-3934",
+              "duration": 0,
+              "watchPath": "/watch/Americas-Day-at-the-Races-3934",
+              "themes": [],
+              "tagline": "Tagline",
+              "hasClosedCaptions": false,
+              "badge": ""
+            },
+            {
+              "videoId": "45c4b501-8aa1-4c85-81cb-34a365a95da9",
+              "eventDate": "2020-11-03T08:00:00Z",
+              "images": {
+                "tile": "https://test-static.sinc-static.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='129714.jpg'&EntityType='Item'&EntityId='3936'&Width=1920&Height=1080",
+                "wallpaper": "https://test-static.sinc-static.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='129716.jpg'&EntityType='Item'&EntityId='3936'&Width=1920&Height=1080"
+              },
+              "offers": [
+                {
+                  "availability": "Available",
+                  "customFields": {},
+                  "deliveryType": "Stream",
+                  "endDate": "2100-12-31T00:00:00Z",
+                  "name": "D787_Program Free External D786",
+                  "ownership": "Free",
+                  "price": 0,
+                  "resolution": "External",
+                  "scopes": [
+                    "3936"
+                  ],
+                  "startDate": "1999-12-31T00:00:00Z",
+                  "segments": [],
+                  "subscriptionCode": ""
+                }
+              ],
+              "scopes": [
+                "3936"
+              ],
+              "categories": [
+                "sys-legacy",
+                "league-nba",
+                "region:tbd",
+                "videostatus:ondemand"
+              ],
+              "customFields": {
+                "VideoId": "45c4b501-8aa1-4c85-81cb-34a365a95da9",
+                "VideoStatus": "OnDemand",
+                "ForgeId": "06432559-4c86-420a-bfe3-e7eb18371676",
+                "AclCode": "TBD",
+                "MvpdProtected": true,
+                "MaterialId": 846136,
+                "Provider": "LiveEvent",
+                "HasData": false,
+                "InputId": 2027,
+                "FdssEventId": 1507961,
+                "TmsId": "EP036622070010",
+                "DistAreaCallsigns": "FSNM",
+                "RsnId": "fsa",
+                "ImageTemplateUrl": "https://fe-en-sinclair-test.akamaized.net/images/image/private/{formatInstructions}/test/enkme49driwqr4pb9rvp"
+              },
+              "customId": "live-event-1",
+              "genres": [],
+              "id": "3936",
+              "type": "program",
+              "subtype": "live",
+              "shortDescription": "Live Event 1 OnDemand.",
+              "contextualTitle": "Live Event 1 OnDemand.",
+              "title": "NASCAR Championship Weekend Race Rewind - Camping World 500",
+              "totalUserRatings": 0,
+              "path": "/program/NASCAR-Championship-Weekend-Race-Rewind-Camping-World-500-3936",
+              "duration": 0,
+              "watchPath": "/watch/NASCAR-Championship-Weekend-Race-Rewind-Camping-World-500-3936",
+              "themes": [],
+              "tagline": "",
+              "hasClosedCaptions": false,
+              "badge": ""
+            },
+            {
+              "videoId": "0ea38808-3394-4301-817b-a906d44e961d",
+              "images": {
+                "tile": "https://test-static.sinc-static.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='142662.jpg'&EntityType='Item'&EntityId='6671'&Width=1920&Height=1080",
+                "wallpaper": "https://test-static.sinc-static.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='142664.jpg'&EntityType='Item'&EntityId='6671'&Width=1920&Height=1080"
+              },
+              "offers": [
+                {
+                  "availability": "Available",
+                  "customFields": {},
+                  "deliveryType": "Stream",
+                  "endDate": "2100-12-31T00:00:00Z",
+                  "name": "D787_Program Free External D786",
+                  "ownership": "Free",
+                  "price": 0,
+                  "resolution": "External",
+                  "scopes": [
+                    "6671"
+                  ],
+                  "startDate": "1999-12-31T00:00:00Z",
+                  "segments": [],
+                  "subscriptionCode": ""
+                }
+              ],
+              "scopes": [
+                "6671"
+              ],
+              "categories": [
+                "league-nba",
+                "team-nba-3422",
+                "league-nhl",
+                "team-nhl-3675",
+                "region:all",
+                "videostatus:live"
+              ],
+              "customFields": {
+                "VideoId": "0ea38808-3394-4301-817b-a906d44e961d",
+                "VideoStatus": "Live",
+                "ForgeId": "10522bae-7858-4e76-bee6-0d4604abdff5",
+                "AclCode": "All",
+                "MvpdProtected": false,
+                "Provider": "Unknown",
+                "ImageTemplateUrl": "https://fe-en-sinclair-test.akamaized.net/images/image/private/{formatInstructions}/test/o4namurndgc0br2rfnog"
+              },
+              "customId": "bigbuckbunny-mp4",
+              "genres": [],
+              "id": "6671",
+              "type": "program",
+              "subtype": "live",
+              "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lobortis efficitur libero, sed porttitor leo sagittis a. Mauris posuere nulla ut odio sagittis aliquam. Quisque quam metus, commodo in ipsum ac, dictum finibus dui. Nullam erat nunc, pulvinar et ornare eget, tempor a quam. Suspendisse potenti. In a ex leo.",
+              "contextualTitle": "BigBuckBunny.mp4 (2020-09-10 17:10:58Z]",
+              "title": "Unbelievable: Big Buck Bunny scored hattrick",
+              "totalUserRatings": 0,
+              "path": "/program/Unbelievable-Big-Buck-Bunny-scored-hattrick-6671",
+              "watchPath": "/watch/Unbelievable-Big-Buck-Bunny-scored-hattrick-6671",
+              "themes": [],
+              "tagline": "",
+              "hasClosedCaptions": false,
+              "badge": ""
+            },
+            {
+              "videoId": "253cd74b-f139-4455-82d5-d318b6cf6e3b",
+              "eventDate": "2020-12-11T13:47:00Z",
+              "images": {},
+              "offers": [
+                {
+                  "availability": "Available",
+                  "customFields": {},
+                  "deliveryType": "Stream",
+                  "endDate": "2100-12-31T00:00:00Z",
+                  "name": "D787_Program Free External D786",
+                  "ownership": "Free",
+                  "price": 0,
+                  "resolution": "External",
+                  "scopes": [
+                    "7000"
+                  ],
+                  "startDate": "1999-12-31T00:00:00Z",
+                  "segments": [],
+                  "subscriptionCode": ""
+                }
+              ],
+              "scopes": [
+                "7000"
+              ],
+              "categories": [
+                "sys-legacy",
+                "league-nhl",
+                "team-nhl-3675",
+                "region:all",
+                "videostatus:ondemand"
+              ],
+              "customFields": {
+                "VideoId": "253cd74b-f139-4455-82d5-d318b6cf6e3b",
+                "VideoStatus": "OnDemand",
+                "ForgeId": "02d48805-a235-4a6c-a06d-2148a40bbac2",
+                "AclCode": "All",
+                "СontentCreationDate": "2020-12-10 13:48:00Z",
+                "ContentUpdateDate": "2020-12-10 19:48:00Z",
+                "VmapUri": "v_vmap_uri - test",
+                "MvpdProtected": true,
+                "MaterialId": 321,
+                "TrickplayUri": "v_trick_play_uri - test",
+                "Provider": "ContentMigration",
+                "HasData": true,
+                "InputId": 111,
+                "FdssEventId": 222,
+                "TmsId": 333,
+                "DistAreaCallsigns": "fsa",
+                "RsnId": 322
+              },
+              "customId": "title-564f56a3wd-wafg",
+              "genres": [],
+              "id": "7000",
+              "type": "program",
+              "subtype": "vod",
+              "shortDescription": "\"fjea\"\":E\"ALorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aliquam, quam sit amet vulputate placerat, eros eros sodales erat, nec semper leo diam non ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla rhoncus massa sed leo viverra volutpat. Fusce dignissim velit nec turpis bibendum lacinia. Pellentesque et turpis ut dolor finibus tristique. Cras venenatis sed risus sagittis tempor. Quisque ornare mauris ut urna cursus, ut fermentum enim ornare.",
+              "contextualTitle": "Title test2' rat\"\"F\" AW\"$%^",
+              "title": "Title Long 'ta' \"\"'43 ^^%",
+              "totalUserRatings": 0,
+              "path": "/program/Title-Long-ta-43--7000",
+              "duration": 0,
+              "watchPath": "/watch/Title-Long-ta-43--7000",
+              "themes": [],
+              "tagline": "",
+              "hasClosedCaptions": true,
+              "badge": ""
+            },
+            {
+              "videoId": "b228facc-4eb5-46f0-9812-56eb721d9c79",
+              "images": {},
+              "offers": [
+                {
+                  "availability": "Available",
+                  "customFields": {},
+                  "deliveryType": "Stream",
+                  "endDate": "2100-12-31T00:00:00Z",
+                  "name": "D787_Program Free External D786",
+                  "ownership": "Free",
+                  "price": 0,
+                  "resolution": "External",
+                  "scopes": [
+                    "7470"
+                  ],
+                  "startDate": "1999-12-31T00:00:00Z",
+                  "segments": [],
+                  "subscriptionCode": ""
+                }
+              ],
+              "scopes": [
+                "7470"
+              ],
+              "categories": [
+                "videostatus:live"
+              ],
+              "customFields": {
+                "VideoId": "b228facc-4eb5-46f0-9812-56eb721d9c79",
+                "VideoStatus": "Live",
+                "ForgeId": "6fa3e187-e7c0-42b9-861a-8e1865c2e14c",
+                "MvpdProtected": false,
+                "Provider": "Linear",
+                "RsnId": "fsa"
+              },
+              "customId": "test-channel",
+              "genres": [],
+              "id": "7470",
+              "type": "program",
+              "subtype": "live",
+              "shortDescription": "Test desc",
+              "contextualTitle": "Test channel",
+              "title": "Test channel",
+              "totalUserRatings": 0,
+              "path": "/program/Test-channel-7470",
+              "watchPath": "/watch/Test-channel-7470",
+              "themes": [],
+              "tagline": "",
+              "hasClosedCaptions": false,
+              "badge": ""
+            }
+          ],
+          "size": 6,
+          "paging": {
+            "size": 6,
+            "total": 1,
+            "page": 1
+          },
+          "customFields": {},
+          "themes": [],
+          "images": {},
+          "parameter": ""
+        }
+      }
+    ]
+  },
+  "array-objects-example": {
+    "entries": [
+      {
+        "template": "SINCAT1"
+      },
+      {
+        "template": "P1"
+      }
+    ]
+  },
+  "array-example": {
+    "categories": [
+      "team-nhl-3675",
+      "league-nhl",
+      "region:arizona",
+      "videostatus:live"
+    ]
+  },
+  "admins": [
+    {
+      "name": "morpheus",
+      "job": "zion resident",
+      "id": 1
+    },
+    {
+      "name": "Average Joe",
+      "job": "killer",
+      "id": 2
+    }
+  ],
+  "users": {
+    "page": 1,
+    "per_page": 3,
+    "total": 12,
+    "total_pages": 4,
+    "metadata": null,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzUxMiJ9.eyJ1c2VyIjoiOGJhMjNmMmEtMzBjMC00N2U5LWI0NTMtMzQ1ZDhhNTJkNGJhIiwiaXNzdWVkIjoxNTczNDczNjk2LCJleHAiOjE1NzM0ODA4OTYsInVzZXJzdGF0dXMiOiJGcmVlVHJpYWwiLCJ2aWV3ZXJJZCI6IjM0NWQ4YTUyZDRiYSIsImNvdW50cnkiOiJkZSIsInVzZXJUeXBlIjoyLCJjYW5yZWRlZW1nYyI6IkVuYWJsZWQiLCJpc3MiOiJNSVNMIiwiY29udGVudENvdW50cnkiOiJkZSIsIm1weCI6ImV5SmhiR2NpT2lKU1V6VXhNaUo5LmV5SnpkV0lpT2lKd1oyeHpMWEJ5WkMxMGNuVnpkR1ZrTHpoaVlUSXpaakpoTFRNd1l6QXRORGRsT1MxaU5EVXpMVE0wTldRNFlUVXlaRFJpWVNJc0ltbHpjeUk2SWpFaUxDSmxlSEFpT2pFMU56TTBPREE0T1RVc0ltbGhkQ0k2TVRVM016UTNNelk1TlRZeU9Td2lhblJwSWpvaVpEVmlNbVZrWW1FdFpESmpNUzAwTTJRMExXRXhNVGd0TVRFNU0yRmlaamd6WXpKaElpd2laR2xrSWpvaWNHZHNjeTF3Y21RdGRISjFjM1JsWkNJc0luVnViU0k2SWpoaVlUSXpaakpoTFRNd1l6QXRORGRsT1MxaU5EVXpMVE0wTldRNFlUVXlaRFJpWVNJc0ltTjBlQ0k2SW50Y0luVnpaWEpPWVcxbFhDSTZYQ0k0WW1FeU0yWXlZUzB6TUdNd0xUUTNaVGt0WWpRMU15MHpORFZrT0dFMU1tUTBZbUZjSWl4Y0ltRjBkSEpwWW5WMFpYTmNJanA3WENKemRXSnpZM0pwY0hScGIyNU1aWFpsYkZ3aU9sd2ljM1JoYm1SaGNtUmNJbjE5WEc0aUxDSnZhV1FpT201MWJHeDkuRWxtaFFTdERyQ2RUQzVJYVZsZ2VsTlVES09majJKemNlNFljRUVoQzRueWg1dnlaUTdZc24xUkxpa24tcTU3bVNrdXQ4NkliN1F1Y0ZoM2daZC1hRVdzd3NMWjNlVVVvREJCdEtSZkZIRDd2TWpMeVA5S3BzMWswNzJWSzhlS0FJVUFzNEdvNElMcV9WWElURkRqRk94NEozWnRRdXZJZFVKamp2emtRWi16SDZmdVZUVjNjSVAxNEdSQ0I4bTA1SjdIQnpvT2psbzdqRW92S05pREI2STVJVWs2TXJOdEN6RktMT1N5aE9kQ1oxMnJYajM0SFdNZ1RUU19YYjVkb1hrMkRxOG5kLTNsYUZ1MG5vWlRTT3JLblNjQVhqWk1IaDBKeEUyektSVGkydEJmbXBJR0xVbUhtbHNzNnoxcFBXYk5qY0xOUHVSTDE1V3pJODlvUnZ3IiwiZGV2aWNlSWQiOiI4YmEyM2YyYS0zMGMwLTQ3ZTktYjQ1My0zNDVkOGE1MmQ0YmEtMDA1MzFGQzMyQyJ9.6lmgBK59fAeRhKz6z3yIpDKON9hc84cGZkz-xtWki8I1C_JFOwy8d0ZJgjHanW_fk5qnD6rjrqxXJ-TFr4bw8honTbaiVvelABLHrOtBUhg6L4C-pMmrJcomvMMARMbKCCjOS8LVjM9Q1iROoDOl29VKXlwxrBilAS1whnEyZcHoVtUlnZ3OI9OYPEgN5Vhael62UgOp7t9fSmGpTM7KNyZ-vaBFdtn2z59-fraznQRIUgZaSMlYj6Uer6GekKOVJTGlC-MH176AH329vq-3HKzGDi2EdrD3BdT-R2NuMXXw5ZnWbZkmi3bk9Uvt9hgq_ZAD_kvGg0KeC0Shd6KCUg",
+    "data": [
+      {
+        "id": 1,
+        "category": "user",
+        "first_name": "George",
+        "last_name": "Bluth",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg"
+      },
+      {
+        "id": 2,
+        "category": "user",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
+      },
+      {
+        "id": 3,
+        "category": "user",
+        "first_name": "Emma",
+        "last_name": "Wong",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/olegpogodaev/128.jpg"
+      }
+    ]
+  },
+  "comments": [
+    {
+      "id": 1,
+      "body": "Far far away, behind the word mountains, far from the countries."
+    },
+    {
+      "id": 2,
+      "body": "Even the all-powerful Pointing has no control about the blind texts."
+    },
+    {
+      "id": 3,
+      "body": "Bookmarksgrove, the headline of Alphabet Village and the subline of her own road."
+    }
+  ],
+  "test": {
+    "one": null,
+    "two": "null",
+    "boolTypeValueTrue": true,
+    "stringTypeValueTrue": "true",
+    "boolTypeValueFalse": false,
+    "stringTypeValueFalse": "false",
+    "regex1": "Server-Timing: isl-avg=231, isl-max=231, cache=1; “cache miss”, total=238",
+    "encodedUrl": "https%3A%2F%2Fen-stg.ballysports.com"
+  },
+  "slash-in-response": {
+    "value": "body requires property \"type\""
+  },
+  "search-page": {
+    "term": "gr",
+    "total": 20,
+    "people": [
+      {
+        "name": "Gregg Wilson",
+        "path": "/name/Gregg_Wilson"
+      },
+      {
+        "name": "Grant Van Der Slagt",
+        "path": "/name/Grant_Van_Der_Slagt"
+      },
+      {
+        "name": "Greg ten Bosch",
+        "path": "/name/Greg_ten_Bosch"
+      },
+      {
+        "name": "Graeme Puttock",
+        "path": "/name/Graeme_Puttock"
+      },
+      {
+        "name": "Graham Hall",
+        "path": "/name/Graham_Hall"
+      },
+      {
+        "name": "Graham V. Hartstone",
+        "path": "/name/Graham_V._Hartstone"
+      },
+      {
+        "name": "Grant Armstrong",
+        "path": "/name/Grant_Armstrong"
+      },
+      {
+        "name": "Gray Frederickson",
+        "path": "/name/Gray_Frederickson"
+      },
+      {
+        "name": "Greg Baldi",
+        "path": "/name/Greg_Baldi"
+      },
+      {
+        "name": "Greg Berry",
+        "path": "/name/Greg_Berry"
+      },
+      {
+        "name": "Greg Corke",
+        "path": "/name/Greg_Corke"
+      },
+      {
+        "name": "Greg Etheredge",
+        "path": "/name/Greg_Etheredge"
+      }
+    ],
+    "items": {
+      "id": "search-items",
+      "title": "Item Results",
+      "path": "",
+      "items": [
+        {
+          "availableSeasonCount": 4,
+          "offers": [],
+          "scopes": [
+            "3350"
+          ],
+          "categories": [],
+          "customId": "306114",
+          "genres": [],
+          "id": "3350",
+          "type": "show",
+          "shortDescription": "Grey's Anatomy",
+          "sports": [],
+          "themes": [],
+          "title": "Grey's Anatomy",
+          "path": "/show/Greys_Anatomy_3350"
+        },
+        {
+          "offers": [
+            {
+              "deliveryType": "None",
+              "scopes": [
+                "4330"
+              ],
+              "resolution": "Unknown",
+              "availability": "Available",
+              "ownership": "None",
+              "price": 0
+            }
+          ],
+          "scopes": [
+            "4330"
+          ],
+          "categories": [],
+          "customId": "21398",
+          "genres": [],
+          "id": "4330",
+          "type": "movie",
+          "shortDescription": "In the wake of a horrific car accident that kills her husband, Michael, expectant mother Madeline Matheson discovers that her da",
+          "sports": [],
+          "themes": [],
+          "title": "Grace",
+          "path": "/movie/Grace_4330",
+          "watchPath": "/watch/Grace_4330"
+        },
+        {
+          "offers": [
+            {
+              "deliveryType": "None",
+              "scopes": [
+                "3496"
+              ],
+              "resolution": "Unknown",
+              "availability": "Available",
+              "ownership": "None",
+              "price": 0
+            },
+            {
+              "deliveryType": "None",
+              "scopes": [
+                "3496"
+              ],
+              "resolution": "Unknown",
+              "availability": "Available",
+              "ownership": "None",
+              "price": 0
+            },
+            {
+              "deliveryType": "None",
+              "scopes": [
+                "3496"
+              ],
+              "resolution": "Unknown",
+              "availability": "Available",
+              "ownership": "None",
+              "price": 0
+            }
+          ],
+          "scopes": [
+            "3496"
+          ],
+          "categories": [],
+          "customId": "22972",
+          "genres": [],
+          "id": "3496",
+          "type": "movie",
+          "shortDescription": "During the U.S.-led occupation of Baghdad in 2003, Chief Warrant Officer Roy Miller and his team of Army inspectors were dispatc",
+          "sports": [],
+          "themes": [],
+          "title": "Green Zone",
+          "path": "/movie/Green_Zone_3496",
+          "watchPath": "/watch/Green_Zone_3496"
+        },
+        {
+          "images": {
+            "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='153787'&EntityType='Item'&EntityId='6511'&Width=1920&Height=1080&device=web_browser&subscriptions=Visitor&segmentationTags=all",
+            "poster": "https://qa1.axisstatic.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='153819'&EntityType='Item'&EntityId='6511'&Width=720&Height=1080&device=web_browser&subscriptions=Visitor&segmentationTags=all",
+            "tile": "https://qa1.axisstatic.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='153803'&EntityType='Item'&EntityId='6511'&Width=1024&Height=576&device=web_browser&subscriptions=Visitor&segmentationTags=all"
+          },
+          "offers": [
+            {
+              "deliveryType": "None",
+              "scopes": [
+                "6511"
+              ],
+              "resolution": "Unknown",
+              "availability": "Available",
+              "ownership": "None",
+              "price": 0
+            }
+          ],
+          "scopes": [
+            "6511"
+          ],
+          "categories": [],
+          "customId": "25704",
+          "genres": [],
+          "id": "6511",
+          "type": "movie",
+          "shortDescription": "Ryden Malby has a master plan. Graduate college, get a great job, hang out with her best friend and find the perfect guy. But he",
+          "sports": [],
+          "themes": [],
+          "title": "Post Grad",
+          "path": "/movie/Post_Grad_6511",
+          "watchPath": "/watch/Post_Grad_6511"
+        },
+        {
+          "images": {
+            "tile": "https://qa1.axisstatic.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='150898'&EntityType='Item'&EntityId='6794'&Width=1024&Height=576&device=web_browser&subscriptions=Visitor&segmentationTags=all",
+            "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='150878'&EntityType='Item'&EntityId='6794'&Width=1920&Height=1080&device=web_browser&subscriptions=Visitor&segmentationTags=all",
+            "poster": "https://qa1.axisstatic.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='150918'&EntityType='Item'&EntityId='6794'&Width=720&Height=1080&device=web_browser&subscriptions=Visitor&segmentationTags=all"
+          },
+          "offers": [
+            {
+              "deliveryType": "None",
+              "scopes": [
+                "6794"
+              ],
+              "resolution": "Unknown",
+              "availability": "Available",
+              "ownership": "None",
+              "price": 0
+            }
+          ],
+          "scopes": [
+            "6794"
+          ],
+          "categories": [],
+          "customId": "44264",
+          "genres": [],
+          "id": "6794",
+          "type": "movie",
+          "shortDescription": "Following the murder of her father by hired hand Tom Chaney, 14-year-old farm girl Mattie Ross sets out to capture the killer. T",
+          "sports": [],
+          "themes": [],
+          "title": "True Grit",
+          "path": "/movie/True_Grit_6794",
+          "watchPath": "/watch/True_Grit_6794"
+        },
+        {
+          "images": {
+            "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='152303'&EntityType='Item'&EntityId='5923'&Width=1920&Height=1080&device=web_browser&subscriptions=Visitor&segmentationTags=all",
+            "tile": "https://qa1.axisstatic.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='152321'&EntityType='Item'&EntityId='5923'&Width=1024&Height=576&device=web_browser&subscriptions=Visitor&segmentationTags=all",
+            "poster": "https://qa1.axisstatic.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='152339'&EntityType='Item'&EntityId='5923'&Width=720&Height=1080&device=web_browser&subscriptions=Visitor&segmentationTags=all"
+          },
+          "offers": [
+            {
+              "deliveryType": "None",
+              "scopes": [
+                "5923"
+              ],
+              "resolution": "Unknown",
+              "availability": "Available",
+              "ownership": "None",
+              "price": 0
+            }
+          ],
+          "scopes": [
+            "5923"
+          ],
+          "categories": [],
+          "customId": "48471",
+          "genres": [],
+          "id": "5923",
+          "type": "movie",
+          "shortDescription": "The year was 1941, and the world was on the brink of war. In an effort to improve relations between the Americas, the Roosevelt ",
+          "sports": [],
+          "themes": [],
+          "title": "Walt & El Grupo",
+          "path": "/movie/Walt_and_El_Grupo_5923",
+          "watchPath": "/watch/Walt_and_El_Grupo_5923"
+        },
+        {
+          "offers": [
+            {
+              "deliveryType": "None",
+              "scopes": [
+                "4272"
+              ],
+              "resolution": "Unknown",
+              "availability": "Available",
+              "ownership": "None",
+              "price": 0
+            }
+          ],
+          "scopes": [
+            "4272"
+          ],
+          "categories": [],
+          "customId": "1587",
+          "genres": [],
+          "id": "4272",
+          "type": "movie",
+          "shortDescription": "Gilbert has to care for his brother Arnie and his obese mother, which gets in the way when love walks into his life.",
+          "sports": [],
+          "themes": [],
+          "title": "What's Eating Gilbert Grape",
+          "path": "/movie/Whats_Eating_Gilbert_Grape_4272",
+          "watchPath": "/watch/Whats_Eating_Gilbert_Grape_4272"
+        },
+        {
+          "images": {
+            "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='134324'&EntityType='Item'&EntityId='2088'&Width=1920&Height=1080&device=web_browser&subscriptions=Visitor&segmentationTags=all",
+            "tile": "https://qa1.axisstatic.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='134339'&EntityType='Item'&EntityId='2088'&Width=1920&Height=1080&device=web_browser&subscriptions=Visitor&segmentationTags=all",
+            "poster": "https://qa1.axisstatic.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='134355'&EntityType='Item'&EntityId='2088'&Width=1000&Height=1500&device=web_browser&subscriptions=Visitor&segmentationTags=all"
+          },
+          "duration": 654,
+          "releaseYear": 2018,
+          "offers": [
+            {
+              "customFields": {
+                "RelativeAdvancedPeriodTime": "AfterDealEnd"
+              },
+              "deliveryType": "None",
+              "scopes": [
+                "2088"
+              ],
+              "resolution": "Unknown",
+              "availability": "ComingSoon",
+              "ownership": "None",
+              "price": 0
+            }
+          ],
+          "scopes": [
+            "2088"
+          ],
+          "categories": [
+            "movie"
+          ],
+          "customId": "254500664",
+          "genres": [
+            "action",
+            "thriller",
+            "science fiction"
+          ],
+          "id": "2088",
+          "type": "movie",
+          "shortDescription": "A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace",
+          "sports": [],
+          "themes": [],
+          "title": "Upgrade",
+          "path": "/movie/Upgrade_2088",
+          "watchPath": "/watch/Upgrade_2088"
+        }
+      ],
+      "size": 8,
+      "paging": {
+        "size": 8,
+        "total": 1,
+        "page": 1
+      }
+    }
+  },
+  "masqa-1822": {
+    "term": "Fifa Worldcup",
+    "total": 1,
+    "items": {
+      "id": "search-items",
+      "title": "Item Results",
+      "path": "",
+      "items": [
+        {
+          "images": {
+            "poster": "https://qa1.axisstatic.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='150076'&EntityType='Item'&EntityId='5460'&Width=80&Height=120&device=web_browser&subscriptions=Visitor",
+            "tile": "https://qa1.axisstatic.com/api/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='150078'&EntityType='Item'&EntityId='5460'&Width=80&Height=120&device=web_browser&subscriptions=Visitor"
+          },
+          "offers": [
+            {
+              "deliveryType": "None",
+              "scopes": [
+                "5460"
+              ],
+              "resolution": "Unknown",
+              "availability": "Available",
+              "ownership": "Free",
+              "price": 0
+            }
+          ],
+          "scopes": [
+            "5460"
+          ],
+          "categories": [
+            "confederation"
+          ],
+          "customId": "0a9cd320-857f-4937-bbc5-a80d6d4edadb",
+          "genres": [],
+          "id": "5460",
+          "type": "confederation",
+          "shortDescription": "Fifa Worlcup (UEFA)",
+          "contextualTitle": "Fifa Worlcup (UEFA)",
+          "sports": [
+            "football"
+          ],
+          "themes": [],
+          "title": "Fifa Worldcup (UEFA Automation)",
+          "path": "/confederation/Fifa_Worldcup_(UEFA_Automation)_5460"
+        }
+      ],
+      "size": 1,
+      "paging": {
+        "size": 1,
+        "total": 1,
+        "page": 1
+      }
+    }
+  },
+  "MASQA-1823": {
+    "id": "4579",
+    "isStatic": false,
+    "metadata": {
+      "description": "",
+      "isSystemPage": false,
+      "keywords": []
+    },
+    "key": "",
+    "path": "/dyn-row-titles-dli",
+    "template": "Home",
+    "themes": [],
+    "title": "dyn-row-titles-dli",
+    "entries": [
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "505474a",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "P1",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "images": {
+            "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/133859=1920x1080",
+            "custom": "https://qa1.axisstatic.com/api/shain/v1/img/133883=808x760"
+          },
+          "listMeta": {
+            "isProfileList": false
+          },
+          "itemTypes": [
+            "movie"
+          ],
+          "description": "",
+          "title": "Collection - Irreverent Movies",
+          "shortDescription": "",
+          "tagline": "",
+          "themes": [
+            {
+              "colors": [
+                {
+                  "name": "Primary",
+                  "value": "#761d22"
+                }
+              ],
+              "type": "Background"
+            }
+          ],
+          "path": "/list/Collection_Irreverent_Movies_1970",
+          "items": [
+            {
+              "images": {
+                "tile": "https://qa1.axisstatic.com/api/shain/v1/img/134409=1920x1080",
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/134397=3840x2160",
+                "hero3x1": "https://qa1.axisstatic.com/api/shain/v1/img/138131=2700x900",
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/134415=2000x3000",
+                "brand": "https://qa1.axisstatic.com/api/shain/v1/img/138199=672x121",
+                "hero4x3": "https://qa1.axisstatic.com/api/shain/v1/img/138135=2025x1518",
+                "badge": "https://qa1.axisstatic.com/api/shain/v1/img/138404=500x667",
+                "custom": "https://qa1.axisstatic.com/api/shain/v1/img/138394=1080x400",
+                "square": "https://qa1.axisstatic.com/api/shain/v1/img/138446=1024x1024",
+                "logo": "https://qa1.axisstatic.com/api/shain/v1/img/138408=685x999",
+                "hero7x1": "https://qa1.axisstatic.com/api/shain/v1/img/138518=2494x356",
+                "block": "https://qa1.axisstatic.com/api/shain/v1/img/138520=2048x1536",
+                "tall": "https://qa1.axisstatic.com/api/shain/v1/img/138450=600x1200",
+                "wide2x1": "https://qa1.axisstatic.com/api/shain/v1/img/138522=2174x1087"
+              },
+              "duration": 635,
+              "releaseYear": 2018,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "2097"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "2097"
+              ],
+              "averageUserRating": 7.2,
+              "badge": "from marvel studio",
+              "categories": [
+                "movie"
+              ],
+              "customId": "254383498",
+              "genres": [
+                "action",
+                "comedy",
+                "science fiction"
+              ],
+              "id": "2097",
+              "type": "movie",
+              "shortDescription": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+              "sports": [],
+              "tagline": "Foul-mouthed mutant mercenary Wade Wilson (a.k.a. Deadpool), brings together a team!",
+              "themes": [],
+              "title": "Deadpool 2",
+              "classification": {
+                "code": "MPAA-NC-17",
+                "name": "NC-17"
+              },
+              "path": "/movie/Deadpool_2_2097",
+              "watchPath": "/watch/Deadpool_2_2097"
+            },
+            {
+              "images": {
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/127148=1920x1080",
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/127187=2000x3000"
+              },
+              "duration": 635,
+              "releaseYear": 2017,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "687"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "687"
+              ],
+              "averageUserRating": 6,
+              "categories": [
+                "movie"
+              ],
+              "customId": "254341013",
+              "genres": [
+                "thriller"
+              ],
+              "id": "687",
+              "type": "movie",
+              "shortDescription": "An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.",
+              "sports": [],
+              "themes": [],
+              "title": "Atomic Blonde",
+              "path": "/movie/Atomic_Blonde_687",
+              "watchPath": "/watch/Atomic_Blonde_687"
+            },
+            {
+              "images": {
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/127383=1920x1080",
+                "tile": "https://qa1.axisstatic.com/api/shain/v1/img/127397=1920x1080",
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/127424=2000x3000"
+              },
+              "duration": 654,
+              "releaseYear": 2017,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "728"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "728"
+              ],
+              "categories": [
+                "movie"
+              ],
+              "customId": "254324552",
+              "genres": [
+                "thriller",
+                "action",
+                "crime"
+              ],
+              "id": "728",
+              "type": "movie",
+              "shortDescription": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins╬ô├ç├û",
+              "sports": [],
+              "themes": [],
+              "title": "John Wick: Chapter 2",
+              "path": "/movie/John_Wick_Chapter_2_728",
+              "watchPath": "/watch/John_Wick_Chapter_2_728"
+            },
+            {
+              "images": {
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/129883=3840x2160",
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/129888=799x1199",
+                "tile": "https://qa1.axisstatic.com/api/shain/v1/img/129885=1920x1078"
+              },
+              "duration": 888,
+              "releaseYear": 2017,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "1201"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "1201"
+              ],
+              "categories": [
+                "movie"
+              ],
+              "customId": "254343668",
+              "genres": [
+                "action",
+                "adventure",
+                "comedy"
+              ],
+              "id": "1201",
+              "type": "movie",
+              "shortDescription": "When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together",
+              "sports": [],
+              "themes": [],
+              "title": "Kingsman: The Golden Circle",
+              "path": "/movie/Kingsman_The_Golden_Circle_1201",
+              "watchPath": "/watch/Kingsman_The_Golden_Circle_1201"
+            },
+            {
+              "images": {
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/128244=1920x1080",
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/128246=1000x1500"
+              },
+              "duration": 734,
+              "releaseYear": 1999,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "725"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "725"
+              ],
+              "averageUserRating": 10,
+              "categories": [
+                "movie"
+              ],
+              "customId": "254550",
+              "genres": [
+                "drama"
+              ],
+              "id": "725",
+              "type": "movie",
+              "shortDescription": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy.",
+              "sports": [],
+              "themes": [],
+              "title": "Fight Club",
+              "path": "/movie/Fight_Club_725",
+              "watchPath": "/watch/Fight_Club_725"
+            },
+            {
+              "images": {
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/128026=1000x1426",
+                "tile": "https://qa1.axisstatic.com/api/shain/v1/img/128625=1024x576",
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/128049=3840x2160",
+                "block": "https://qa1.axisstatic.com/api/shain/v1/img/128627=1200x900",
+                "square": "https://qa1.axisstatic.com/api/shain/v1/img/128629=2160x2160",
+                "hero3x1": "https://qa1.axisstatic.com/api/shain/v1/img/128631=1920x640",
+                "hero4x3": "https://qa1.axisstatic.com/api/shain/v1/img/128635=1200x900",
+                "tall": "https://qa1.axisstatic.com/api/shain/v1/img/128637=621x1242",
+                "wide2x1": "https://qa1.axisstatic.com/api/shain/v1/img/128639=1920x960",
+                "brand": "https://qa1.axisstatic.com/api/shain/v1/img/129251=300x215"
+              },
+              "duration": 719,
+              "releaseYear": 2016,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "854"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "854"
+              ],
+              "categories": [
+                "movie"
+              ],
+              "customId": "254297761",
+              "genres": [
+                "action",
+                "crime",
+                "fantasy",
+                "science fiction"
+              ],
+              "id": "854",
+              "type": "movie",
+              "shortDescription": "From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United",
+              "sports": [],
+              "themes": [],
+              "title": "Suicide Squad",
+              "classification": {
+                "code": "MPAA-PG-13",
+                "name": "PG-13"
+              },
+              "path": "/movie/Suicide_Squad_854",
+              "watchPath": "/watch/Suicide_Squad_854"
+            },
+            {
+              "images": {
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/127324=80x120",
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/127356=80x120"
+              },
+              "duration": 635,
+              "releaseYear": 1994,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "717"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "717"
+              ],
+              "categories": [
+                "movie"
+              ],
+              "customId": "254680",
+              "genres": [
+                "thriller",
+                "crime"
+              ],
+              "id": "717",
+              "type": "movie",
+              "shortDescription": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this",
+              "sports": [],
+              "themes": [],
+              "title": "Pulp Fiction",
+              "classification": {
+                "code": "MPAA-R",
+                "name": "R"
+              },
+              "path": "/movie/Pulp_Fiction_717",
+              "watchPath": "/watch/Pulp_Fiction_717"
+            },
+            {
+              "images": {
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/128188=1920x1080",
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/127189=1400x2100"
+              },
+              "duration": 654,
+              "releaseYear": 2014,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "688"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "688"
+              ],
+              "averageUserRating": 8,
+              "categories": [
+                "movie"
+              ],
+              "customId": "254245891",
+              "genres": [
+                "action",
+                "thriller"
+              ],
+              "id": "688",
+              "type": "movie",
+              "shortDescription": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+              "sports": [],
+              "themes": [],
+              "title": "John Wick",
+              "classification": {
+                "code": "MPAA-R",
+                "name": "R"
+              },
+              "path": "/movie/John_Wick_688",
+              "watchPath": "/watch/John_Wick_688"
+            },
+            {
+              "images": {
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/129876=1920x1080",
+                "tile": "https://qa1.axisstatic.com/api/shain/v1/img/129878=1920x1080",
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/129881=2000x3000"
+              },
+              "duration": 734,
+              "releaseYear": 2015,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "1200"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "1200"
+              ],
+              "categories": [
+                "movie"
+              ],
+              "customId": "254207703",
+              "genres": [
+                "crime",
+                "comedy",
+                "action",
+                "adventure"
+              ],
+              "id": "1200",
+              "type": "movie",
+              "shortDescription": "The story of a super-secret spy organization that recruits an unrefined but promising street kid into the agency's",
+              "sports": [],
+              "themes": [],
+              "title": "Kingsman: The Secret Service",
+              "path": "/movie/Kingsman_The_Secret_Service_1200",
+              "watchPath": "/watch/Kingsman_The_Secret_Service_1200"
+            },
+            {
+              "images": {
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/133628=1920x1080",
+                "tile": "https://qa1.axisstatic.com/api/shain/v1/img/133639=1920x1080",
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/133763=1000x1500"
+              },
+              "duration": 635,
+              "releaseYear": 2009,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "1947"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "1947"
+              ],
+              "categories": [
+                "movie"
+              ],
+              "customId": "25413532",
+              "genres": [
+                "adventure",
+                "comedy"
+              ],
+              "id": "1947",
+              "type": "movie",
+              "shortDescription": "In 1999, Star Wars fanatics take a cross-country trip to George Lucas' Skywalker Ranch so their dying friend can see a screening",
+              "sports": [],
+              "themes": [],
+              "title": "Fanboys",
+              "classification": {
+                "code": "MPAA-PG",
+                "name": "PG"
+              },
+              "path": "/movie/Fanboys_1947",
+              "watchPath": "/watch/Fanboys_1947"
+            },
+            {
+              "images": {
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/129742=3840x2160",
+                "tile": "https://qa1.axisstatic.com/api/shain/v1/img/129744=1920x1080",
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/129747=2000x3000"
+              },
+              "duration": 888,
+              "releaseYear": 2017,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "1176"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "1176"
+              ],
+              "averageUserRating": 2,
+              "categories": [
+                "movie"
+              ],
+              "customId": "254346364",
+              "genres": [
+                "horror"
+              ],
+              "id": "1176",
+              "type": "movie",
+              "shortDescription": "In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster",
+              "sports": [],
+              "themes": [],
+              "title": "It",
+              "path": "/movie/It_1176",
+              "watchPath": "/watch/It_1176"
+            },
+            {
+              "images": {
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/127957=1600x2400",
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/127969=1920x1080",
+                "tile": "https://qa1.axisstatic.com/api/shain/v1/img/131135=1400x787"
+              },
+              "duration": 734,
+              "releaseYear": 2017,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "730"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "730"
+              ],
+              "averageUserRating": 4,
+              "categories": [
+                "movie"
+              ],
+              "customId": "254339403",
+              "genres": [
+                "action",
+                "crime",
+                "thriller"
+              ],
+              "id": "730",
+              "type": "movie",
+              "shortDescription": "A talented, young getaway driver Baby  relies on the beat of his personal soundtrack to be the best in the game. When he meets",
+              "sports": [],
+              "themes": [],
+              "title": "Baby Driver",
+              "classification": {
+                "code": "MPAA-NC-17",
+                "name": "NC-17"
+              },
+              "path": "/movie/Baby_Driver_730",
+              "watchPath": "/watch/Baby_Driver_730"
+            }
+          ],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 1,
+            "size": 12
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "52f3104",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "P2",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "images": {
+            "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/133859=1920x1080",
+            "custom": "https://qa1.axisstatic.com/api/shain/v1/img/133883=808x760"
+          },
+          "listMeta": {
+            "isProfileList": false
+          },
+          "itemTypes": [
+            "movie"
+          ],
+          "description": "",
+          "title": "Collection - Irreverent Movies",
+          "shortDescription": "",
+          "tagline": "",
+          "themes": [
+            {
+              "colors": [
+                {
+                  "name": "Primary",
+                  "value": "#761d22"
+                }
+              ],
+              "type": "Background"
+            }
+          ],
+          "path": "/list/Collection_Irreverent_Movies_1970",
+          "items": [
+            {
+              "images": {
+                "tile": "https://qa1.axisstatic.com/api/shain/v1/img/134409=1920x1080",
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/134397=3840x2160",
+                "hero3x1": "https://qa1.axisstatic.com/api/shain/v1/img/138131=2700x900",
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/134415=2000x3000",
+                "brand": "https://qa1.axisstatic.com/api/shain/v1/img/138199=672x121",
+                "hero4x3": "https://qa1.axisstatic.com/api/shain/v1/img/138135=2025x1518",
+                "badge": "https://qa1.axisstatic.com/api/shain/v1/img/138404=500x667",
+                "custom": "https://qa1.axisstatic.com/api/shain/v1/img/138394=1080x400",
+                "square": "https://qa1.axisstatic.com/api/shain/v1/img/138446=1024x1024",
+                "logo": "https://qa1.axisstatic.com/api/shain/v1/img/138408=685x999",
+                "hero7x1": "https://qa1.axisstatic.com/api/shain/v1/img/138518=2494x356",
+                "block": "https://qa1.axisstatic.com/api/shain/v1/img/138520=2048x1536",
+                "tall": "https://qa1.axisstatic.com/api/shain/v1/img/138450=600x1200",
+                "wide2x1": "https://qa1.axisstatic.com/api/shain/v1/img/138522=2174x1087"
+              },
+              "duration": 635,
+              "releaseYear": 2018,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "2097"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "2097"
+              ],
+              "averageUserRating": 7.2,
+              "badge": "from marvel studio",
+              "categories": [
+                "movie"
+              ],
+              "customId": "254383498",
+              "genres": [
+                "action",
+                "comedy",
+                "science fiction"
+              ],
+              "id": "2097",
+              "type": "movie",
+              "shortDescription": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+              "sports": [],
+              "tagline": "Foul-mouthed mutant mercenary Wade Wilson (a.k.a. Deadpool), brings together a team!",
+              "themes": [],
+              "title": "Deadpool 2",
+              "classification": {
+                "code": "MPAA-NC-17",
+                "name": "NC-17"
+              },
+              "path": "/movie/Deadpool_2_2097",
+              "watchPath": "/watch/Deadpool_2_2097"
+            },
+            {
+              "images": {
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/127148=1920x1080",
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/127187=2000x3000"
+              },
+              "duration": 635,
+              "releaseYear": 2017,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "687"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "687"
+              ],
+              "averageUserRating": 6,
+              "categories": [
+                "movie"
+              ],
+              "customId": "254341013",
+              "genres": [
+                "thriller"
+              ],
+              "id": "687",
+              "type": "movie",
+              "shortDescription": "An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.",
+              "sports": [],
+              "themes": [],
+              "title": "Atomic Blonde",
+              "path": "/movie/Atomic_Blonde_687",
+              "watchPath": "/watch/Atomic_Blonde_687"
+            },
+            {
+              "images": {
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/127383=1920x1080",
+                "tile": "https://qa1.axisstatic.com/api/shain/v1/img/127397=1920x1080",
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/127424=2000x3000"
+              },
+              "duration": 654,
+              "releaseYear": 2017,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "728"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "728"
+              ],
+              "categories": [
+                "movie"
+              ],
+              "customId": "254324552",
+              "genres": [
+                "thriller",
+                "action",
+                "crime"
+              ],
+              "id": "728",
+              "type": "movie",
+              "shortDescription": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins╬ô├ç├û",
+              "sports": [],
+              "themes": [],
+              "title": "John Wick: Chapter 2",
+              "path": "/movie/John_Wick_Chapter_2_728",
+              "watchPath": "/watch/John_Wick_Chapter_2_728"
+            },
+            {
+              "images": {
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/129883=3840x2160",
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/129888=799x1199",
+                "tile": "https://qa1.axisstatic.com/api/shain/v1/img/129885=1920x1078"
+              },
+              "duration": 888,
+              "releaseYear": 2017,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "1201"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "1201"
+              ],
+              "categories": [
+                "movie"
+              ],
+              "customId": "254343668",
+              "genres": [
+                "action",
+                "adventure",
+                "comedy"
+              ],
+              "id": "1201",
+              "type": "movie",
+              "shortDescription": "When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together",
+              "sports": [],
+              "themes": [],
+              "title": "Kingsman: The Golden Circle",
+              "path": "/movie/Kingsman_The_Golden_Circle_1201",
+              "watchPath": "/watch/Kingsman_The_Golden_Circle_1201"
+            },
+            {
+              "images": {
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/128244=1920x1080",
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/128246=1000x1500"
+              },
+              "duration": 734,
+              "releaseYear": 1999,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "725"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "725"
+              ],
+              "averageUserRating": 10,
+              "categories": [
+                "movie"
+              ],
+              "customId": "254550",
+              "genres": [
+                "drama"
+              ],
+              "id": "725",
+              "type": "movie",
+              "shortDescription": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy.",
+              "sports": [],
+              "themes": [],
+              "title": "Fight Club",
+              "path": "/movie/Fight_Club_725",
+              "watchPath": "/watch/Fight_Club_725"
+            },
+            {
+              "images": {
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/128026=1000x1426",
+                "tile": "https://qa1.axisstatic.com/api/shain/v1/img/128625=1024x576",
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/128049=3840x2160",
+                "block": "https://qa1.axisstatic.com/api/shain/v1/img/128627=1200x900",
+                "square": "https://qa1.axisstatic.com/api/shain/v1/img/128629=2160x2160",
+                "hero3x1": "https://qa1.axisstatic.com/api/shain/v1/img/128631=1920x640",
+                "hero4x3": "https://qa1.axisstatic.com/api/shain/v1/img/128635=1200x900",
+                "tall": "https://qa1.axisstatic.com/api/shain/v1/img/128637=621x1242",
+                "wide2x1": "https://qa1.axisstatic.com/api/shain/v1/img/128639=1920x960",
+                "brand": "https://qa1.axisstatic.com/api/shain/v1/img/129251=300x215"
+              },
+              "duration": 719,
+              "releaseYear": 2016,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "854"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "854"
+              ],
+              "categories": [
+                "movie"
+              ],
+              "customId": "254297761",
+              "genres": [
+                "action",
+                "crime",
+                "fantasy",
+                "science fiction"
+              ],
+              "id": "854",
+              "type": "movie",
+              "shortDescription": "From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United",
+              "sports": [],
+              "themes": [],
+              "title": "Suicide Squad",
+              "classification": {
+                "code": "MPAA-PG-13",
+                "name": "PG-13"
+              },
+              "path": "/movie/Suicide_Squad_854",
+              "watchPath": "/watch/Suicide_Squad_854"
+            },
+            {
+              "images": {
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/127324=80x120",
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/127356=80x120"
+              },
+              "duration": 635,
+              "releaseYear": 1994,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "717"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "717"
+              ],
+              "categories": [
+                "movie"
+              ],
+              "customId": "254680",
+              "genres": [
+                "thriller",
+                "crime"
+              ],
+              "id": "717",
+              "type": "movie",
+              "shortDescription": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this",
+              "sports": [],
+              "themes": [],
+              "title": "Pulp Fiction",
+              "classification": {
+                "code": "MPAA-R",
+                "name": "R"
+              },
+              "path": "/movie/Pulp_Fiction_717",
+              "watchPath": "/watch/Pulp_Fiction_717"
+            },
+            {
+              "images": {
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/128188=1920x1080",
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/127189=1400x2100"
+              },
+              "duration": 654,
+              "releaseYear": 2014,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "688"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "688"
+              ],
+              "averageUserRating": 8,
+              "categories": [
+                "movie"
+              ],
+              "customId": "254245891",
+              "genres": [
+                "action",
+                "thriller"
+              ],
+              "id": "688",
+              "type": "movie",
+              "shortDescription": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+              "sports": [],
+              "themes": [],
+              "title": "John Wick",
+              "classification": {
+                "code": "MPAA-R",
+                "name": "R"
+              },
+              "path": "/movie/John_Wick_688",
+              "watchPath": "/watch/John_Wick_688"
+            },
+            {
+              "images": {
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/129876=1920x1080",
+                "tile": "https://qa1.axisstatic.com/api/shain/v1/img/129878=1920x1080",
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/129881=2000x3000"
+              },
+              "duration": 734,
+              "releaseYear": 2015,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "1200"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "1200"
+              ],
+              "categories": [
+                "movie"
+              ],
+              "customId": "254207703",
+              "genres": [
+                "crime",
+                "comedy",
+                "action",
+                "adventure"
+              ],
+              "id": "1200",
+              "type": "movie",
+              "shortDescription": "The story of a super-secret spy organization that recruits an unrefined but promising street kid into the agency's",
+              "sports": [],
+              "themes": [],
+              "title": "Kingsman: The Secret Service",
+              "path": "/movie/Kingsman_The_Secret_Service_1200",
+              "watchPath": "/watch/Kingsman_The_Secret_Service_1200"
+            },
+            {
+              "images": {
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/133628=1920x1080",
+                "tile": "https://qa1.axisstatic.com/api/shain/v1/img/133639=1920x1080",
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/133763=1000x1500"
+              },
+              "duration": 635,
+              "releaseYear": 2009,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "1947"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "1947"
+              ],
+              "categories": [
+                "movie"
+              ],
+              "customId": "25413532",
+              "genres": [
+                "adventure",
+                "comedy"
+              ],
+              "id": "1947",
+              "type": "movie",
+              "shortDescription": "In 1999, Star Wars fanatics take a cross-country trip to George Lucas' Skywalker Ranch so their dying friend can see a screening",
+              "sports": [],
+              "themes": [],
+              "title": "Fanboys",
+              "classification": {
+                "code": "MPAA-PG",
+                "name": "PG"
+              },
+              "path": "/movie/Fanboys_1947",
+              "watchPath": "/watch/Fanboys_1947"
+            },
+            {
+              "images": {
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/129742=3840x2160",
+                "tile": "https://qa1.axisstatic.com/api/shain/v1/img/129744=1920x1080",
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/129747=2000x3000"
+              },
+              "duration": 888,
+              "releaseYear": 2017,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "1176"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "1176"
+              ],
+              "averageUserRating": 2,
+              "categories": [
+                "movie"
+              ],
+              "customId": "254346364",
+              "genres": [
+                "horror"
+              ],
+              "id": "1176",
+              "type": "movie",
+              "shortDescription": "In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster",
+              "sports": [],
+              "themes": [],
+              "title": "It",
+              "path": "/movie/It_1176",
+              "watchPath": "/watch/It_1176"
+            },
+            {
+              "images": {
+                "poster": "https://qa1.axisstatic.com/api/shain/v1/img/127957=1600x2400",
+                "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/127969=1920x1080",
+                "tile": "https://qa1.axisstatic.com/api/shain/v1/img/131135=1400x787"
+              },
+              "duration": 734,
+              "releaseYear": 2017,
+              "offers": [
+                {
+                  "customFields": {
+                    "RelativeAdvancedPeriodTime": "AfterDealEnd"
+                  },
+                  "deliveryType": "None",
+                  "scopes": [
+                    "730"
+                  ],
+                  "resolution": "Unknown",
+                  "availability": "ComingSoon",
+                  "ownership": "None",
+                  "price": 0
+                }
+              ],
+              "scopes": [
+                "730"
+              ],
+              "averageUserRating": 4,
+              "categories": [
+                "movie"
+              ],
+              "customId": "254339403",
+              "genres": [
+                "action",
+                "crime",
+                "thriller"
+              ],
+              "id": "730",
+              "type": "movie",
+              "shortDescription": "A talented, young getaway driver Baby  relies on the beat of his personal soundtrack to be the best in the game. When he meets",
+              "sports": [],
+              "themes": [],
+              "title": "Baby Driver",
+              "classification": {
+                "code": "MPAA-NC-17",
+                "name": "NC-17"
+              },
+              "path": "/movie/Baby_Driver_730",
+              "watchPath": "/watch/Baby_Driver_730"
+            }
+          ],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 1,
+            "size": 12
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "cea344e",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "PB1",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "path": "/list/1970",
+          "items": [],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 0,
+            "size": 12,
+            "next": "/lists/1970?page=1"
+          },
+          "title": "Collection - Irreverent Movies",
+          "listMeta": {
+            "isProfileList": false
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "965d80f",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "PB2",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "path": "/list/1970",
+          "items": [],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 0,
+            "size": 12,
+            "next": "/lists/1970?page=1"
+          },
+          "title": "Collection - Irreverent Movies",
+          "listMeta": {
+            "isProfileList": false
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "2f228e1",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "PB3",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "path": "/list/1970",
+          "items": [],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 0,
+            "size": 12,
+            "next": "/lists/1970?page=1"
+          },
+          "title": "Collection - Irreverent Movies",
+          "listMeta": {
+            "isProfileList": false
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": "",
+          "breakoutTop": "inset",
+          "breakoutBottom": "inset",
+          "breakoutLeft": "inset"
+        },
+        "type": "ListEntry",
+        "id": "2e2b15a",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "PB4",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "path": "/list/1970",
+          "items": [],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 0,
+            "size": 12,
+            "next": "/lists/1970?page=1"
+          },
+          "title": "Collection - Irreverent Movies",
+          "listMeta": {
+            "isProfileList": false
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "f2aa591",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "T1",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "path": "/list/1970",
+          "items": [],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 0,
+            "size": 12,
+            "next": "/lists/1970?page=1"
+          },
+          "title": "Collection - Irreverent Movies",
+          "listMeta": {
+            "isProfileList": false
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "453c768",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "T2",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "path": "/list/1970",
+          "items": [],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 0,
+            "size": 12,
+            "next": "/lists/1970?page=1"
+          },
+          "title": "Collection - Irreverent Movies",
+          "listMeta": {
+            "isProfileList": false
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "e148cd5",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "T3",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "path": "/list/1970",
+          "items": [],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 0,
+            "size": 12,
+            "next": "/lists/1970?page=1"
+          },
+          "title": "Collection - Irreverent Movies",
+          "listMeta": {
+            "isProfileList": false
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "deb4823",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "TB1",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "path": "/list/1970",
+          "items": [],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 0,
+            "size": 12,
+            "next": "/lists/1970?page=1"
+          },
+          "title": "Collection - Irreverent Movies",
+          "listMeta": {
+            "isProfileList": false
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "6ff62d8",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "TB2",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "path": "/list/1970",
+          "items": [],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 0,
+            "size": 12,
+            "next": "/lists/1970?page=1"
+          },
+          "title": "Collection - Irreverent Movies",
+          "listMeta": {
+            "isProfileList": false
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "2ae5d08",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "TB3",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "path": "/list/1970",
+          "items": [],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 0,
+            "size": 12,
+            "next": "/lists/1970?page=1"
+          },
+          "title": "Collection - Irreverent Movies",
+          "listMeta": {
+            "isProfileList": false
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": "",
+          "breakoutTop": "inset",
+          "breakoutBottom": "inset",
+          "breakoutLeft": "inset"
+        },
+        "type": "ListEntry",
+        "id": "fb31271",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "TB4",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "path": "/list/1970",
+          "items": [],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 0,
+            "size": 12,
+            "next": "/lists/1970?page=1"
+          },
+          "title": "Collection - Irreverent Movies",
+          "listMeta": {
+            "isProfileList": false
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "0888e3a",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "S1",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "path": "/list/1970",
+          "items": [],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 0,
+            "size": 12,
+            "next": "/lists/1970?page=1"
+          },
+          "title": "Collection - Irreverent Movies",
+          "listMeta": {
+            "isProfileList": false
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "8cf98e4",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "S2",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "path": "/list/1970",
+          "items": [],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 0,
+            "size": 12,
+            "next": "/lists/1970?page=1"
+          },
+          "title": "Collection - Irreverent Movies",
+          "listMeta": {
+            "isProfileList": false
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "65d63e1",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "S3",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "path": "/list/1970",
+          "items": [],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 0,
+            "size": 12,
+            "next": "/lists/1970?page=1"
+          },
+          "title": "Collection - Irreverent Movies",
+          "listMeta": {
+            "isProfileList": false
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "4d515c4",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "SB1",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "path": "/list/1970",
+          "items": [],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 0,
+            "size": 12,
+            "next": "/lists/1970?page=1"
+          },
+          "title": "Collection - Irreverent Movies",
+          "listMeta": {
+            "isProfileList": false
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "c0dd487",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "SB2",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "path": "/list/1970",
+          "items": [],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 0,
+            "size": 12,
+            "next": "/lists/1970?page=1"
+          },
+          "title": "Collection - Irreverent Movies",
+          "listMeta": {
+            "isProfileList": false
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "59f0028",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "SB3",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "path": "/list/1970",
+          "items": [],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 0,
+            "size": 12,
+            "next": "/lists/1970?page=1"
+          },
+          "title": "Collection - Irreverent Movies",
+          "listMeta": {
+            "isProfileList": false
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": "",
+          "breakoutTop": "inset",
+          "breakoutBottom": "inset",
+          "breakoutLeft": "inset"
+        },
+        "type": "ListEntry",
+        "id": "e3ae782",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "SB4",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "path": "/list/1970",
+          "items": [],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 0,
+            "size": 12,
+            "next": "/lists/1970?page=1"
+          },
+          "title": "Collection - Irreverent Movies",
+          "listMeta": {
+            "isProfileList": false
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "bc6fc1f",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "B1",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "path": "/list/1970",
+          "items": [],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 0,
+            "size": 12,
+            "next": "/lists/1970?page=1"
+          },
+          "title": "Collection - Irreverent Movies",
+          "listMeta": {
+            "isProfileList": false
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "42a782e",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "B2",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "path": "/list/1970",
+          "items": [],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 0,
+            "size": 12,
+            "next": "/lists/1970?page=1"
+          },
+          "title": "Collection - Irreverent Movies",
+          "listMeta": {
+            "isProfileList": false
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "453f355",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "B3",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "path": "/list/1970",
+          "items": [],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 0,
+            "size": 12,
+            "next": "/lists/1970?page=1"
+          },
+          "title": "Collection - Irreverent Movies",
+          "listMeta": {
+            "isProfileList": false
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "assetTitlePosition": "none",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "d750820",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "TL1",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "path": "/list/1970",
+          "items": [],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 0,
+            "size": 12,
+            "next": "/lists/1970?page=1"
+          },
+          "title": "Collection - Irreverent Movies",
+          "listMeta": {
+            "isProfileList": false
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "moreLinkUrl": ""
+        },
+        "type": "ListEntry",
+        "id": "8d2271b",
+        "listMeta": {
+          "isProfileList": false
+        },
+        "template": "EPG3",
+        "title": "Collection - Irreverent Movies",
+        "list": {
+          "id": "1970",
+          "path": "/list/1970",
+          "items": [],
+          "size": 12,
+          "paging": {
+            "total": 1,
+            "page": 0,
+            "size": 12,
+            "next": "/lists/1970?page=1"
+          },
+          "title": "Collection - Irreverent Movies",
+          "listMeta": {
+            "isProfileList": false
+          }
+        }
+      },
+      {
+        "customFields": {
+          "customTagline": "",
+          "moreLinkUrl": "",
+          "showChannelLogo": true
+        },
+        "type": "ItemEntry",
+        "id": "1c29717",
+        "template": "CH2",
+        "title": "TVC 1",
+        "item": {
+          "images": {
+            "logo": "https://qa1.axisstatic.com/api/shain/v1/img/127037=80x120",
+            "hero4x3": "https://qa1.axisstatic.com/api/shain/v1/img/127101=80x120",
+            "hero3x1": "https://qa1.axisstatic.com/api/shain/v1/img/127099=80x120",
+            "wallpaper": "https://qa1.axisstatic.com/api/shain/v1/img/127103=80x120",
+            "logolight": "https://qa1.axisstatic.com/api/shain/v1/img/127105=80x120",
+            "logodark": "https://qa1.axisstatic.com/api/shain/v1/img/127107=80x120",
+            "hero7x1": "https://qa1.axisstatic.com/api/shain/v1/img/127109=80x120"
+          },
+          "channelShortCode": "TVC1",
+          "offers": [
+            {
+              "deliveryType": "None",
+              "scopes": [
+                "677"
+              ],
+              "resolution": "Unknown",
+              "availability": "Available",
+              "ownership": "Free",
+              "price": 0
+            }
+          ],
+          "scopes": [
+            "677"
+          ],
+          "badge": "badge",
+          "categories": [
+            "popular"
+          ],
+          "customFields": {
+            "Custom Fields:": "val"
+          },
+          "customId": "crid://tvc1.massive.co",
+          "genres": [
+            "action"
+          ],
+          "id": "677",
+          "type": "channel",
+          "shortDescription": "An example Channel Asset 1",
+          "contextualTitle": "",
+          "sports": [],
+          "tagline": "Tagline",
+          "themes": [
+            {
+              "colors": [
+                {
+                  "name": "Primary",
+                  "opacity": 1,
+                  "value": "#943636"
+                },
+                {
+                  "name": "Secondary",
+                  "opacity": 1,
+                  "value": "#361717"
+                },
+                {
+                  "name": "Tertiary",
+                  "opacity": 1,
+                  "value": "#2ef50b"
+                }
+              ],
+              "type": "Background"
+            },
+            {
+              "colors": [
+                {
+                  "name": "Primary",
+                  "opacity": 1,
+                  "value": "#000000"
+                },
+                {
+                  "name": "Secondary",
+                  "opacity": 1,
+                  "value": "#ffffff"
+                }
+              ],
+              "type": "Text"
+            },
+            {
+              "colors": [
+                {
+                  "name": "Custom1",
+                  "opacity": 1,
+                  "value": "#fffff1"
+                },
+                {
+                  "name": "Custom2",
+                  "opacity": 1,
+                  "value": "#ffb200"
+                },
+                {
+                  "name": "Custom3",
+                  "opacity": 1,
+                  "value": "#4a7638"
+                }
+              ],
+              "type": "Custom"
+            }
+          ],
+          "title": "TVC 1",
+          "classification": {
+            "code": "MPAA-G",
+            "name": "G"
+          },
+          "path": "/channel/TVC_1_677"
+        }
+      }
+    ]
+  },
+  "empty-array": [],
+  "lastIndex": [
+    {
+      "tenantId": "48ztb0yhk7",
+      "accountId": "e3c83992-3742-49b1-9832-41de9360f699",
+      "deviceId": "ndskqrgsagexfg",
+      "deviceType": "web_browser",
+      "deviceName": "ChromeBrowser",
+      "createdDateTime": "2023-02-23T08:50:50.876Z"
+    },
+    {
+      "tenantId": "48ztb0yhk7",
+      "accountId": "e3c83992-3742-49b1-9832-41de9360f699",
+      "deviceId": "test",
+      "deviceType": "web_browser",
+      "deviceName": "ChromeBrowser",
+      "createdDateTime": "2023-02-23T08:52:24.505Z"
+    },
+    {
+      "tenantId": "48ztb0yhk7",
+      "accountId": "e3c83992-3742-49b1-9832-41de9360f699",
+      "deviceId": "gntzcvfdmumq",
+      "deviceType": "web_browser",
+      "deviceName": "ChromeBrowser",
+      "createdDateTime": "2023-02-23T09:40:06.301Z"
+    },
+    {
+      "tenantId": "48ztb0yhk7",
+      "accountId": "e3c83992-3742-49b1-9832-41de9360f699",
+      "deviceId": "test2",
+      "deviceType": "tvOS",
+      "deviceName": "EdgeBrowser",
+      "createdDateTime": "2023-02-23T09:41:10.565Z"
+    },
+    {
+      "tenantId": "48ztb0yhk7",
+      "accountId": "e3c83992-3742-49b1-9832-41de9360f699",
+      "deviceId": "ivdulvstlyf",
+      "deviceType": "web_browser",
+      "deviceName": "ChromeBrowser",
+      "createdDateTime": "2023-02-23T09:42:15.267Z"
+    }
+  ],
+  "xml": {
+    "entriesXml": "<entries><entry><start_index>0</start_index><filters><filter><multi_value_filter><field_type>ItemID</field_type><ignore_case>false</ignore_case><operator>Or</operator><values><value>3173</value></values></multi_value_filter></filter></filters></entry><entry><start_index>0</start_index><filters><filter><multi_value_filter><field_type>ItemID</field_type><ignore_case>false</ignore_case><operator>Or</operator><values><value>3175</value></values></multi_value_filter></filter></filters></entry></entries>",
+    "filtersXml": "",
+    "parameters": []
+  }
+}
